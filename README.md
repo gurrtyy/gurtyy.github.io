@@ -47,8 +47,8 @@ I am actively building hands-on cybersecurity experience through labs, projects,
 
 ## 📫 Connect With Me  
 
-- LinkedIn: *(Add your LinkedIn link here)*  
-- Email: *(Add your professional email here)*  
+- LinkedIn: https://www.linkedin.com/in/arnav-sundaram/  
+- Email: asundaram021@gmail.com 
 
 ---
 
